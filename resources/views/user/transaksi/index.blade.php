@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-    <h1>Daftar Transaksi</h1>
+    <h1>Daftar Transaksii</h1>
     <!-- Remove create button for users -->
     <!-- <a href="{{ route('transaksi.create') }}" class="btn btn-primary mb-3">Tambah Transaksi</a> -->
 
